@@ -1,0 +1,5 @@
+# JitPack 빌드 설정 (GitHub 태그 → 자동 빌드·배포)
+jdk:
+  - openjdk17
+install:
+  - ./gradlew :rfscan:publishToMavenLocal -x test

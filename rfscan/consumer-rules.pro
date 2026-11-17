@@ -1,0 +1,1 @@
+-keep class kr.exam.rfscan.** { public *; }
