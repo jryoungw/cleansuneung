@@ -18,7 +18,7 @@
 
 ## 1. 설치 (시험 전날까지)
 
-1. 배포받은 [https://drive.google.com/file/d/1CWofmtnwriGeSiz9aR5mg9KYqxiDg1im/view?usp=drive_link](cleansuneung.apk) 파일을 **구글 드라이브 앱**에서 엽니다.
+1. 배포받은 [cleansuneung.apk](https://drive.google.com/file/d/1CWofmtnwriGeSiz9aR5mg9KYqxiDg1im/view?usp=drive_link) 파일을 **구글 드라이브 앱**에서 엽니다.
    - 카카오톡이나 인터넷 브라우저로 받으면 설치가 막힐 수 있습니다.
 2. 설치가 막히면 다음 설정을 **잠시 끕니다**.
    - **설정 → 보안 및 개인정보 보호 → 보안 위험 자동 차단**
