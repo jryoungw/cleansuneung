@@ -1,5 +1,5 @@
 # 감독관용 README
-[README](https://github.com/jryoungw/cleansuneung/blob/main/SUPERVISOR_GUIDE.md)
+[클릭](https://github.com/jryoungw/cleansuneung/blob/main/SUPERVISOR_GUIDE.md)
 
 # rfscan — 안드로이드 블루투스·Wi-Fi 수동 탐지 SDK
 
