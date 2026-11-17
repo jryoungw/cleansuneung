@@ -1,3 +1,6 @@
+# 감독관용 README
+[README](https://github.com/jryoungw/cleansuneung/blob/main/SUPERVISOR_GUIDE.md)
+
 # rfscan — 안드로이드 블루투스·Wi-Fi 수동 탐지 SDK
 
 시험실 같은 공간에서 **주변 블루투스(BLE)와 Wi-Fi 신호원**을 감지하는 안드로이드 라이브러리입니다. 신호원의 개수, 종류(이어폰·스마트안경·폰 핫스팟·무선 카메라 등), 세기를 알려줍니다.
